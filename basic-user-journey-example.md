@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Subgraph Example
+title: Basic User Journey Example
 config:
   theme: neutral
 ---
