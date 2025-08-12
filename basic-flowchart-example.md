@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Basic Example
+title: Basic Flowchart Example
 config:
   theme: neutral
   look: handDrawn

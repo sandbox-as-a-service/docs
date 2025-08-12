@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Subgraph Example
+title: Basic Flowchart Subgraph Example
 config:
   theme: neutral
   look: handDrawn
