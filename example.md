@@ -6,7 +6,7 @@ config:
   look: handDrawn
 ---
 flowchart LR
-a[start] --> b{decision}
-b -- yes --> c[continue]
-b -- no --> d[stop]
+a([🚀 Start]) --> b{🤔 Decision?}
+b -- ✅ Yes --> c[➡️ Continue]
+b -- ❌ No --> d[🛑 Stop]
 ```
