@@ -49,7 +49,7 @@ sequenceDiagram
 
 ```mermaid
 ---
-title: Read Poll with Cache Invalidation
+title: Write Poll with Cache Invalidation
 config:
   theme: neutral
 ---
