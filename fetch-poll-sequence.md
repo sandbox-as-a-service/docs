@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: Fetch Poll with Cache Hit
+title: Read Poll with Cache Hit
 config:
   theme: neutral
 ---
