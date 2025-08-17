@@ -1,6 +1,6 @@
 ```mermaid
 ---
-title: DB Tx without Idempotency Key (Unique Guard)
+title: Idempotent Vote without Unique Key
 config:
   theme: neutral
 ---
