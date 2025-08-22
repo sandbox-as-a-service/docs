@@ -67,7 +67,7 @@ model Vote {
   // Auth-only identity
   userId         String   @db.Uuid
 
-  // Dedup on client retries (optional but recommended)
+  // Dedup on client retries (optional but recommended) or @@unique([userId, idempotencyKey])
   idempotencyKey String?  @unique @db.Text
 
   poll           Poll       @relation(fields: [pollId], references: [id], onDelete: Cascade)
